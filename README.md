@@ -29,7 +29,7 @@
 > 后台管理系统
 
 小程序下载 地址 https://gitee.com/catshen/mall-applet
-后台管理下载地址 https://github.com/shenzhuan/mallplus
+后台管理下载地址 https://gitee.com/zscat/mallplus
 项目演示地址： [http://39.98.190.128/index.html](http://39.98.190.128/index.html)  
   
 ![后台管理系统功能演示.gif](/document/resource/mall-admin.gif)
