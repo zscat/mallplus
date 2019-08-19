@@ -28,7 +28,7 @@
 
 > 后台管理系统
 
-小程序下载 地址 https://gitee.com/catshen/mall-applet
+小程序下载 地址 https://gitee.com/catshen/mobile-mall
 后台管理下载地址 https://gitee.com/zscat/mallplus
 项目演示地址： [http://39.98.190.128/index.html](http://39.98.190.128/index.html)  
   
